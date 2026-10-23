@@ -1,0 +1,117 @@
+/* HeroFit Website Styles */
+
+body {
+    background-color: #070B0F;
+    color: #F4F8FA;
+    font-family: Arial, sans-serif;
+}
+
+/* HeroFit Header */
+
+header {
+    background-color: #070B0F;
+    color: #00CFFF;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 3px solid #FF5A00;
+    border-radius: 10px;
+}
+
+header span {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* HeroFit Navigation */
+
+nav {
+    background-color: #111820;
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav a {
+    color: #00CFFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #FF5A00;
+}
+
+/* Main Website Content */
+
+main {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 25px;
+}
+
+h1 {
+    color: #00CFFF;
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #FF5A00;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+li {
+    line-height: 1.8;
+}
+
+/* HeroFit Lists and Footer */
+
+main ul,
+main ol {
+    padding-left: 30px;
+    margin-bottom: 25px;
+}
+
+main li {
+    margin-bottom: 10px;
+}
+
+dt {
+    color: #00CFFF;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+dd {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #111820;
+    color: #F4F8FA;
+    text-align: center;
+    padding: 20px;
+    border-top: 3px solid #FF5A00;
+}
+
+address {
+    line-height: 1.8;
+    margin-top: 25px;
+}
