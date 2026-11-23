@@ -40,7 +40,9 @@ nav a {
     font-weight: 700;
 }
 
-nav .active a {
+
+nav a.active {
+
     background-color: #5d3a2a;
     color: #ffffff;
 }
